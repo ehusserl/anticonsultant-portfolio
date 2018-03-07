@@ -6,7 +6,7 @@ This portfolio contains both ux architecture assets and resultant screens from m
 
 
 <strong>[AV Superfly](AVsuperfly)</strong> - an audio-visual equipment rental and delivery service<br>
-<strong>[Drive](Drive)</strong> - a startup in the car share space<br>
+<strong>[Drive](DRIVE)</strong> - a startup in the car share space<br>
 <strong>[HealthMap](HealthMap)</strong> - a spec project for a personal health record app<br>
 <strong>[Off the Grid](Off the Grid)</strong> - the largest food truck vendor service<br>
 <strong>[Pree, a game of questions](Pree, a game of questions)</strong> - a big data game using trivia and opinions to create rich user profiles<br>
