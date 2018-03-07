@@ -1,11 +1,11 @@
 # anticonsultant-portfolio
 
-Thomas Richardson
+### Thomas Richardson
 
 This portfolio contains both ux architecture assets and resultant screens from more than six clients.
 
 
-<strong><a href="avsuperfly">AV Superfly</a></strong> - an audio-visual equipment rental and delivery service<br>
+<strong>[AV Superfly](AVsupefly)</strong> - an audio-visual equipment rental and delivery service<br>
 <strong>Drive</strong> - a startup in the car share space<br>
 <strong>Healthmap</strong> - a spec project for a personal health record app<br>
 <strong>Off the Grid</strong> - the largest food truck vendor service<br>
