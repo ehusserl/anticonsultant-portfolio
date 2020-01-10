@@ -14,4 +14,6 @@ This portfolio contains both ux architecture assets and resultant screens from m
 <strong>[Cornell University](https://github.com/ehusserl/anticonsultant-portfolio/tree/master/%CE%A9%20other%20UX%20architecture), [Exploratorium](https://github.com/ehusserl/anticonsultant-portfolio/tree/master/%CE%A9%20other%20UX%20architecture)</strong> and a few other startups<br>
 
 
-You'll find the items in each directory in logical viewing order. Many of them contain PDF collections that walk you through an implied ux architecture process. Feel free to view them in the browser or download and them view leisurely. 
+You'll find the items in each directory in logical viewing order. Many of them contain PDF collections that walk you through an implied ux architecture process. Feel free to view them in the browser or download and them view leisurely.
+
+Many of the projects on which I work are proprietary, internal and in some cases still stealth. Therefore, it is not possible to present here the work that I have done for AWS and Invisibly over the past 2.5 years.
